@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Personal Brand Website
+
+## Steps to clone and run the code
+
+- git clone 
+- delete package-lock.json file first
+- npm install ( to install all node modules)
+- npm start (to run the site)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
